@@ -1,8 +1,10 @@
 # Gaba
-✧ Hi, my name is Gabriel Alves, but you can call me just gaba.
+✧ Hi.
 ✧
-✧21 years, Recife-PE.
+✧Gabriel Alves, or just gaba.
+✧
+✧21y, Recife-PE.
 ✧
 ✧Faculdade de Sistemas de Informação na UFPE.
 ✧
-✧Conhecimento em PT-BR e em EN.
+✧PT-BR/EN
